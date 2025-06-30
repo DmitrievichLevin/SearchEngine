@@ -16,7 +16,7 @@
   "dependencies": {},
   "devDependencies": {
     "ava": "^6.4.0",
-    "semantic-release": "^24.2.5",
+    "semantic-release": "^24.2.6",
     "xo": "^1.1.1"
   },
   "ava": {
