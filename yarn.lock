@@ -7181,10 +7181,10 @@ write-file-atomic@^6.0.0:
     imurmurhash "^0.1.4"
     signal-exit "^4.0.1"
 
-xo@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/xo/-/xo-1.2.0.tgz#10b46c06f505b031bb40c59c3d9d7d559c577d95"
-  integrity sha512-Lq/ysEdIFXkaaI3qiUrfAN6CpzrNjFI8dAV15GmrNQIFPqGKBUhcGFwK56WewNqPZsSCU+jOXDVox7kdheGAmQ==
+xo@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/xo/-/xo-1.2.1.tgz#a72c3c8c18919090d17f9062442bb2a8012cb9d4"
+  integrity sha512-CPv9yCCa8WkS8JMME5igrBQhqwOlQ+YFFsF2JP0vjQjuGdme5PLYgnDu8LnawMahtDq2PzpOWbMu2EEIxrOfBA==
   dependencies:
     "@eslint-community/eslint-plugin-eslint-comments" "^4.5.0"
     "@sindresorhus/tsconfig" "^7.0.0"
