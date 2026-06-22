@@ -17,7 +17,7 @@
   "devDependencies": {
     "ava": "^8.0.1",
     "semantic-release": "^25.0.5",
-    "xo": "^3.0.1"
+    "xo": "^3.0.2"
   },
   "ava": {
     "verbose": true
